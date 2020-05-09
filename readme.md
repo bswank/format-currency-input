@@ -4,7 +4,7 @@
 
 ## Notes
 
-- This package makes use of `Intl.NumberFormat` so your environment must support it or have the appropriate polyfill.
+- This package makes use of `Intl.NumberFormat`; your environment must support it or have the appropriate polyfill.
 - This package was created for a very specific use-case when I couldn't find anything slim enough that exactly matched what I needed. I'm happy to entertain further development.
 
 ## Installation
