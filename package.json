@@ -18,7 +18,7 @@
     "build": "parcel build demo/index.html"
   },
   "devDependencies": {
-    "@swankdev/design": "^0.1.4",
+    "@bswank/design": "^0.3.0",
     "parcel-bundler": "^1.12.4"
   },
   "author": "Brian Swank",
