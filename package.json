@@ -1,0 +1,23 @@
+{
+  "name": "format-currency-input",
+  "version": "0.1.0",
+  "description": "Reformat inputted currency text.",
+  "keywords": [
+    "format",
+    "formatting",
+    "currency",
+    "money",
+    "input",
+    "string",
+    "dollar",
+    "cent"
+  ],
+  "main": "index.js",
+  "author": "Brian Swank",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bswank/format-currency-input.git"
+  },
+  "homepage": "https://github.com/bswank/format-currency-input#readme"
+}
