@@ -13,6 +13,14 @@
     "cent"
   ],
   "main": "index.js",
+  "scripts": {
+    "dev": "parcel demo/index.html --no-cache",
+    "build": "parcel build demo/index.html"
+  },
+  "devDependencies": {
+    "@swankdev/design": "^0.1.3",
+    "parcel-bundler": "^1.12.4"
+  },
   "author": "Brian Swank",
   "license": "MIT",
   "repository": {

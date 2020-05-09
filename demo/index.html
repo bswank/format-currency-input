@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>format-currency-input Demo</title>
+    <link rel="icon" href="favicon.ico" type="image/x-icon" />
+    <link rel="stylesheet" href="styles.css" />
+  </head>
+  <body id="wrapper">
+    <div class="trimmed">
+      <h1><span>format-currency-input Demo</span></h1>
+      <h2><span>Try it out:</span></h2>
+      <p>
+        Enter an amount and click outside/tab out of the input. Try entering an
+        amount in an irregular way or entering an invalid amount.
+      </p>
+      <input type="text" name="amount-1" id="currency-test-1" value="$0.00" />
+      <p>
+        <strong>Amount in cents:</strong> <span id="cents">0</span> (To send to
+        your server or use some other way.)
+      </p>
+      <hr />
+      <p>
+        <small>
+          Made by
+          <a target="_blank" href="https://swank.dev/">Brian Swank</a> /
+          <a
+            target="_blank"
+            href="https://github.com/bswank/format-currency-input"
+            >GitHub</a
+          >
+          /
+          <a
+            target="_blank"
+            href="https://www.npmjs.com/package/format-currency-input"
+            >NPM</a
+          >
+        </small>
+      </p>
+    </div>
+    <script src="main.js"></script>
+  </body>
+</html>
