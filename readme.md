@@ -1,6 +1,6 @@
 # format-currency-input
 
-`format-currency-input` is a small utility that reformats currency in an input and also exposes some helper functions. Provided by [Brian Swank](https://swank.dev/).
+`format-currency-input` is a small utility that reformats currency in an input and also exposes some helper functions.
 
 ## Notes
 
