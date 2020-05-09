@@ -2,6 +2,8 @@
 
 `format-currency-input` is a small utility that reformats currency in an input and also exposes some helper functions.
 
+**Check out a [demo](https://format-currency-input.netlify.app/).**
+
 ## Notes
 
 - This package makes use of `Intl.NumberFormat`; your environment must support it or have the appropriate polyfill.
