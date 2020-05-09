@@ -1,6 +1,6 @@
 {
   "name": "format-currency-input",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "Reformat inputted currency text.",
   "keywords": [
     "format",
