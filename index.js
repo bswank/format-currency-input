@@ -76,4 +76,4 @@ const formatCurrencyInput = {
   cents,
 }
 
-export default formatCurrencyInput
+module.exports = formatCurrencyInput
